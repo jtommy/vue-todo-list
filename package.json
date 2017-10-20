@@ -1,0 +1,20 @@
+{
+  "name": "vue-todo-list",
+  "version": "0.0.0",
+  "author": "tommsi@gmail.com",
+  "bugs": {
+    "url": "https://github.com/coding-jam/vue-todo-list/issues"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "grunt": "0.4.5",
+    "grunt-babel": "^7.0.0",
+    "grunt-cli": "1.2.0",
+    "grunt-contrib-connect": "0.10.1"
+  },
+  "scripts": {
+    "prestart": "npm install",
+    "start": "node ./node_modules/grunt-cli/bin/grunt serve"
+  }
+}
