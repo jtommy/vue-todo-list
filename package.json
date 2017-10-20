@@ -1,9 +1,9 @@
 {
   "name": "vue-todo-list",
   "version": "0.0.0",
-  "author": "tommsi@gmail.com",
+  "author": "tommsi20@gmail.com",
   "bugs": {
-    "url": "https://github.com/coding-jam/vue-todo-list/issues"
+    "url": "https://github.com/jtommy/vue-todo-list/issues"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
