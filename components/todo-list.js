@@ -3,7 +3,7 @@ Vue.component('todo-list', {
     template: `
         <table class="table is-fullwidth">
             <tbody>
-                <tr v-for="todo, index in todos">
+                <tr v-for="todo in todos">
                     <td> {{ todo }} </td>
                     <td>
                         <a  href="#" 
